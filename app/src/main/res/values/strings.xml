@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyHeroDad</string>
+    <string name="title_text">My Daddy is ...</string>
+    <string name="hulk_text">as Strong as</string>
+    <string name="flash_text">as Fast as</string>
+    <string name="ironman_text">as Smart as</string>
+    <string name="superman_text">as Brave as</string>
+    <string name="superhero_text">He is my favourite Superhero</string>
+    <string name="with_text">With</string>
+    <string name="love_text">Aggeliki</string>
+</resources>
